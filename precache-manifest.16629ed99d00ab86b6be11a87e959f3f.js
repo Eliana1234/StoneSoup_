@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f26a1de056a8502d69a7b5be066ffdb2",
+    "revision": "33d9cd4de046d4cccdbb4fea1e0fdede",
     "url": "/StoneSoup_/index.html"
   },
   {
