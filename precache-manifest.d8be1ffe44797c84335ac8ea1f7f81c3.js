@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46bd454acb4ff6fdfec6baf484d4c530",
+    "revision": "75718e3d254021c65db61ff8a00a09e7",
     "url": "/StoneSoup_/index.html"
   },
   {
-    "revision": "10bd87211b51276828c9",
+    "revision": "401fd877567c206fc58f",
     "url": "/StoneSoup_/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/StoneSoup_/static/js/2.4df75429.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10bd87211b51276828c9",
-    "url": "/StoneSoup_/static/js/main.b6ea7e5b.chunk.js"
+    "revision": "401fd877567c206fc58f",
+    "url": "/StoneSoup_/static/js/main.309ba483.chunk.js"
   },
   {
     "revision": "26d90e4ca9e4e7296abe",
