@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/StoneSoup_/static/css/main.d1b05096.chunk.css",
+    "main.js": "/StoneSoup_/static/js/main.65998032.chunk.js",
+    "main.js.map": "/StoneSoup_/static/js/main.65998032.chunk.js.map",
+    "runtime-main.js": "/StoneSoup_/static/js/runtime-main.cd839103.js",
+    "runtime-main.js.map": "/StoneSoup_/static/js/runtime-main.cd839103.js.map",
+    "static/js/2.a489c2db.chunk.js": "/StoneSoup_/static/js/2.a489c2db.chunk.js",
+    "static/js/2.a489c2db.chunk.js.map": "/StoneSoup_/static/js/2.a489c2db.chunk.js.map",
+    "index.html": "/StoneSoup_/index.html",
+    "precache-manifest.017395c1f78ef6a91a5028f1ec3e8a96.js": "/StoneSoup_/precache-manifest.017395c1f78ef6a91a5028f1ec3e8a96.js",
+    "service-worker.js": "/StoneSoup_/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/StoneSoup_/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a489c2db.chunk.js.LICENSE.txt": "/StoneSoup_/static/js/2.a489c2db.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/StoneSoup_/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd839103.js",
+    "static/js/2.a489c2db.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.65998032.chunk.js"
+  ]
+}
