@@ -239,8 +239,11 @@ export class App extends React.Component {
                 </div>
                 <div className="vegan">
                   If you enjoy the stone soup game, donate to an organization
-                  fighting food insecurity here:
-                  {/* <Iframe url={urlObj.make}
+                  fighting food insecurity during COVID-19 here:
+                  <br></br>
+                  <br></br>
+                  <a href="https://www.feedingamerica.org/">https://www.feedingamerica.org/</a>
+                  {/* <Iframe url="https://www.feedingamerica.org/take-action/coronavirus"
                   width="450px"
                   height="450px"
                   id="myId"
